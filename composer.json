@@ -1,0 +1,33 @@
+{
+  "name": "wpsmith/slideout-menu",
+  "description": "Slideout Menu for Genesis.",
+  "keywords": [
+    "wordpress",
+    "genesis",
+    "menu",
+    "slideout",
+  ],
+  "homepage": "https://github.com/wpsmith/SlideoutMenu",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Travis Smith",
+      "email": "t@wpsmith.net",
+      "homepage": "https://wpsmith.net/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/wpsmith/SlideoutMenu/issues"
+  },
+  "require": {
+    "php": ">=7.0.0",
+    "wpsmith/singleton": "dev-master",
+    "wpsmith/templates": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "WPS\\WP\\": "src/"
+    }
+  }
+}
