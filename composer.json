@@ -22,7 +22,7 @@
   },
   "require": {
     "php": ">=7.0.0",
-    "wpsmith/singleton": "dev-master",
+    "wpsmith/singleton": "^1.0.2",
     "wpsmith/templates": "dev-master",
     "wpsmith/nojs": "dev-master"
   },
