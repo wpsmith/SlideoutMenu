@@ -23,7 +23,8 @@
   "require": {
     "php": ">=7.0.0",
     "wpsmith/singleton": "dev-master",
-    "wpsmith/templates": "dev-master"
+    "wpsmith/templates": "dev-master",
+    "wpsmith/nojs": "dev-master"
   },
   "autoload": {
     "psr-4": {
